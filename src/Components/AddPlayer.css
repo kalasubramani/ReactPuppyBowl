@@ -1,0 +1,15 @@
+.addPlayerForm {
+  display: flex;
+  flex-direction: column;
+  row-gap: 1em;
+  padding-left: 15em;
+  border-radius: 20px;
+  background-color:  rgb(218, 170, 107);
+}
+.addButton {
+  width: fit-content;
+  margin: 1em 0;
+}
+.addplayerHeading{
+  margin-left: -30px;
+}

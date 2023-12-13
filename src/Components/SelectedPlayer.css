@@ -1,0 +1,28 @@
+.selectedPlayer {
+  width: 90%;
+  height: 90%;
+  margin: auto;
+  padding: 0 2em;
+  border-radius: 20px;
+  background-color: rgb(218, 170, 107);
+}
+.playerImage {
+  height: 200px;
+  width: auto;
+}
+.delete {
+  align-self: flex-end;
+  color: orangered;
+  height: fit-content;
+}
+.playerDetails {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 0 2em 2em 0;
+}
+.goBackLink {
+  font-style: italic;
+  font-weight: bold;
+  float: left;
+  padding-bottom: 0px;
+}

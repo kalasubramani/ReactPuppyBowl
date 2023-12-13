@@ -1,0 +1,10 @@
+.home {
+  background-color: rgb(218, 170, 107);
+  padding: 15px;
+  line-height: 30px;
+  border-radius: 15px;
+}
+
+.title {
+  text-align: center;
+}
